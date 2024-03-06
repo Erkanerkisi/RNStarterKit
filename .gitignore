@@ -1,3 +1,8 @@
+# secrets
+**/secrets
+**/Info.plist
+**/ios/GoogleService-Info.plist
+src/secrets/secrets.tsx
 # OSX
 #
 .DS_Store
